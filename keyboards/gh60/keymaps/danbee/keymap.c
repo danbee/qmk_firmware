@@ -1,5 +1,4 @@
-#include "gh60.h"
-#include "action_layer.h"
+#include QMK_KEYBOARD_H
 
 // Name layers
 #define _QW 0
